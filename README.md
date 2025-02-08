@@ -90,5 +90,5 @@ python -m notebook
 - Press Q on your keyboard to close this window
 - Once this window closes out the YOLOv8 window should pop up
 - When the system sees a car it will show you the color make and model in the jupyter notebook page
-- SEE VIDEO DEMO!!!
+## QUE EPIC DEMO VIDEO
 [![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://ubuffalo-my.sharepoint.com/:v:/r/personal/liamscim_buffalo_edu/Documents/VIDEO%20DEMO.mp4?csf=1&web=1&e=XcsE93)
